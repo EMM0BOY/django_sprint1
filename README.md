@@ -53,5 +53,3 @@ python manage.py migrate
 python manage.py runserver
 ```
 
-## Автор:
-[FeodorPyth](https://github.com/FeodorPyth)
